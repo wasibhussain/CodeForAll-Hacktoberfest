@@ -30,7 +30,7 @@ To clone the repository go to your account open this repo and either click on cl
 
 > git clone <_copied URL_>
 
-e.g. git clone (https://github.com/wasibhussain/CodeForAll-Hacktoberfest.git)
+e.g. git clone https://github.com/wasibhussain/CodeForAll-Hacktoberfest.git
 
 ### step 4 Create a branch
 Go inside of your folder where you clone the repository and run these commands.
