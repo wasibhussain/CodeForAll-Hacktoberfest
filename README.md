@@ -1,5 +1,4 @@
 # CodeForAll-Hacktoberfest
-.
 Catering to aspiring programmers, especially beginners, this open-source repository is a treasure trove of useful algorithms and code samples in multiple programming languages, aimed at simplifying the learning process.
 
 **Languages You Will Found:**<br />
