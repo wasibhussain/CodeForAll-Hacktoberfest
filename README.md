@@ -55,6 +55,7 @@ Use the following commands:
 
 Now, we have to commit changes. The commit message should always be clear. To commit, use the command below:
 
+e.g., `git commit -m "your commit here"`
 
 **Step 7 - Push Changes to GitHub**
 
