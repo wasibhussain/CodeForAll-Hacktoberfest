@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+#clock{
+    height: 40vw;
+    width: 40vw;
+    margin: auto;
+    background: url(clock.png) no-repeat center center/cover;
+    background-color: white ;
+    position: relative;
+}
+
+#mHand, #hHand, #sHand{
+    background-color: black;
+    position: absolute;
+    transform-origin: bottom;
+    border-radius: 10px;
+    opacity: 0.8;
+
+}
+
+#hHand{
+    height: 33%;
+    width: 2%;
+    top: 17%;
+    left: 48.7%;
+    /* display: none; */
+}
+#mHand{
+    height: 40%;
+    width: 1.75%;
+    top: 10%;
+    left: 48.8%;
+    /* display: none; */
+}
+#sHand{
+    height: 36%;
+    width: 1%;
+    top: 14%;
+    left: 49.2%;
+    background-color: red;
+    /* display: none; */
+}
+
